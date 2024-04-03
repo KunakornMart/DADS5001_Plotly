@@ -24,7 +24,7 @@ This graph shows the production and packaging costs of Singha beer for February 
 
 When looking at the overall picture, we can observe that the production cost of Singha 320ml is the highest. Some may wonder why the cost of Singha 620ml isn't highest. This is because the costs shown here are in unit baht per liter. In 1 liter, the 320ml beer utilizes a higher quantity of bottles, labels, and other materials compared to the 620ml beer. 
 
-Additionally, many may question why exported beer has a lower cost than domestic beer. This is due to tax considerations. When examining the sub-proportions of the 320ml and 620ml beers sold domestically, a significant excise tax portion can be observed (seen in the detail labels on the right labeled 'Excise Singha 620 & Excise Singha B320'), which is higher than the production and packaging costs by a factor of 3 to 4. 
+Additionally, many may question why exported beer has a lower cost than domestic beer. This is due to tax considerations. When examining the sub-proportions of the 320ml and 620ml beers sold domestically, a significant excise tax portion can be observed (seen in the detail labels on the right labeled "Excise Singha 620" & "Excise Singha B320"), which is higher than the production and packaging costs by a factor of 3 to 4. 
 
 However, for exported beer, distributors in other countries have to pay import taxes themselves. As for beer sold domestically, taxes have to be paid at the factory through coding and stamping in the factory, with excise officers stationed at the factory to ensure accuracy. 
 
