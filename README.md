@@ -32,4 +32,7 @@ The long red lines above each bar represent the standard cost of production set 
 
 <br />
 <br />
-* *
+<br />
+<br />
+
+**_You can view the interactive graph using Plotly on Google Colab. (File name : Assignment_Plotly.ipynb ) and is located in the folder._**
