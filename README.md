@@ -10,7 +10,7 @@
 3. 630ml (export) bottled beer
 4. 620ml (export) bottled beer
 5. 330ml (export) bottled beer
-6. 320ml (export) bottled beer.
+6. 320ml (export) bottled beer
 
 <br />
 
